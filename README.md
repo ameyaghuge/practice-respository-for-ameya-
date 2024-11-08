@@ -17,7 +17,7 @@ def ventolin ():
     
  
 ventolin()
-# I want to create a program where i ask where the ventolin puffer is and it tells me that it is right next to me
+
 #this is my first ever program i wrote by myself for practice I'm asthmatic so this is helpful for me, 
 # anways it was good practice and it was fun :)
 # till next time github :))
